@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "VM74952SWJ.com.padelfreak.app",
+        "paths": ["/auth-callback", "/auth-callback/*", "/friend/*"]
+      }
+    ]
+  }
+}
